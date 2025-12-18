@@ -170,7 +170,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">17,Dec,2025 西の空に微妙な鱗雲</span></h2>
+<h2><span class="yellow">17,Dec,2025 もふもふで暑すぎる猫は椅子の下の冷たい床で寝てます</span></h2>
 <a href="20251218_001.JPG" target="_blank"><img src="20251218_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">庭師のおじさん、刈り取った草木を集めて野焼き、これはPM無くならないかも・・・</span></h2>
