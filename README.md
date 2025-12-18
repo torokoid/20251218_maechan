@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/12/17 、冷んやりした椅子の下の床でくつろぐ猫から、選挙選挙活動が活発化、いつものスーパーの夕暮れまで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/12/17 、冷んやりした椅子の下の床でくつろぐ猫から、活発化した選挙選挙活動、いつものスーパーの夕暮れまで !!!</marquee></span></h1>
 
 
 
@@ -303,7 +303,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">冷んやりした椅子の下の床でくつろぐ猫から、選挙選挙活動が活発化、いつものスーパーの夕暮れまででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">冷んやりした椅子の下の床でくつろぐ猫から、活発化した選挙選挙活動、いつものスーパーの夕暮れまででした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
