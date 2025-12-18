@@ -201,7 +201,7 @@ p.note { display: none; }
 <a href="20251218_011.JPG" target="_blank"><img src="20251218_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251218_012.JPG" target="_blank"><img src="20251218_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">選挙に立候補している女性の硬派者は、妻の同級生でした</span></h2>
+<h2><span class="yellow">選挙に立候補している女性の候補者は、妻の同級生でした</span></h2>
 <a href="20251218_013.JPG" target="_blank"><img src="20251218_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251218_014.JPG" target="_blank"><img src="20251218_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 
